@@ -5,8 +5,1017 @@
     "answer": "Monday to Friday, 9:00 AM–5:00 PM (local time)."
   },
   {
+    "category": "General",
+    "question": "Where are you located?",
+    "answer": "Our headquarters are listed on our Contact page; we also operate remotely."
+  },
+  {
+    "category": "General",
+    "question": "How can I contact support?",
+    "answer": "Use the Help Center chat, email support@company.com, or submit a ticket."
+  },
+  {
+    "category": "General",
+    "question": "Do you have phone support?",
+    "answer": "Yes. Phone support is available for paid plans during business hours."
+  },
+  {
+    "category": "General",
+    "question": "Do you offer a free trial?",
+    "answer": "Yes, most plans include a 14‑day free trial with no credit card required."
+  },
+  {
+    "category": "General",
+    "question": "Which languages do you support?",
+    "answer": "Our product supports English by default, with additional languages in settings."
+  },
+  {
+    "category": "General",
+    "question": "How do I subscribe to updates?",
+    "answer": "Join our newsletter on the website or enable product update notifications in your profile."
+  },
+  {
+    "category": "General",
+    "question": "Where can I find your status page?",
+    "answer": "Visit status.company.com for real‑time uptime and incident history."
+  },
+  {
+    "category": "General",
+    "question": "Do you have a roadmap?",
+    "answer": "Yes, view our public roadmap in the Help Center or community forum."
+  },
+  {
+    "category": "General",
+    "question": "How do I give product feedback?",
+    "answer": "Use the in‑app feedback widget or post in the community forum."
+  },
+
+  {
+    "category": "Accounts",
+    "question": "How do I create an account?",
+    "answer": "Click Sign Up on our homepage and follow the prompts to register."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I verify my email?",
+    "answer": "Check your inbox for a verification link and click it to confirm your email."
+  },
+  {
     "category": "Accounts",
     "question": "How do I reset my password?",
-    "answer": "Go to our website, click Login, then Forgot Password. Check your email for the reset link."
+    "answer": "Click Forgot Password on the login page and follow the emailed link."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I change my password?",
+    "answer": "Go to Account Settings > Security and select Change Password."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I update my profile details?",
+    "answer": "Navigate to Account Settings > Profile to edit your information."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I enable two‑factor authentication (2FA)?",
+    "answer": "Go to Account Settings > Security, then enable 2FA and follow the steps."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I change my email address?",
+    "answer": "Update your email in Account Settings > Profile and confirm via email."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I delete my account?",
+    "answer": "Submit a deletion request in Account Settings > Privacy or contact support."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I manage notification preferences?",
+    "answer": "Open Account Settings > Notifications to customize alerts."
+  },
+  {
+    "category": "Accounts",
+    "question": "Why didn’t I receive the verification email?",
+    "answer": "Check spam, ensure your address is correct, and whitelist our domain."
+  },
+
+  {
+    "category": "Billing",
+    "question": "Which payment methods are accepted?",
+    "answer": "We accept major credit cards and select digital wallets; invoices available for enterprise."
+  },
+  {
+    "category": "Billing",
+    "question": "How do I update my billing information?",
+    "answer": "Go to Billing Settings and edit your payment method and billing address."
+  },
+  {
+    "category": "Billing",
+    "question": "Can I get an invoice or receipt?",
+    "answer": "Yes, find invoices in Billing History and download as PDF."
+  },
+  {
+    "category": "Billing",
+    "question": "When will I be charged?",
+    "answer": "You are charged at the start of each billing cycle unless otherwise stated."
+  },
+  {
+    "category": "Billing",
+    "question": "Do you charge sales tax or VAT?",
+    "answer": "Taxes may apply depending on your location; details appear at checkout and on invoices."
+  },
+  {
+    "category": "Billing",
+    "question": "Can I change my billing cycle?",
+    "answer": "Yes, switch between monthly and annual in Billing Settings."
+  },
+  {
+    "category": "Billing",
+    "question": "Why did my payment fail?",
+    "answer": "Common reasons include expired cards or bank declines; update your method and retry."
+  },
+  {
+    "category": "Billing",
+    "question": "Do you offer refunds?",
+    "answer": "Refunds are handled per our refund policy; contact support for eligibility."
+  },
+  {
+    "category": "Billing",
+    "question": "How do I add a PO number to invoices?",
+    "answer": "Edit your company details in Billing Settings to include a PO reference."
+  },
+  {
+    "category": "Billing",
+    "question": "How do I apply a coupon code?",
+    "answer": "Enter the code at checkout or in Billing Settings before your next renewal."
+  },
+
+  {
+    "category": "Orders",
+    "question": "How do I place an order?",
+    "answer": "Add items to your cart and complete checkout; you’ll receive an order confirmation."
+  },
+  {
+    "category": "Orders",
+    "question": "Can I modify my order after placing it?",
+    "answer": "Contact support quickly; changes are possible before processing begins."
+  },
+  {
+    "category": "Orders",
+    "question": "How do I track my order?",
+    "answer": "Use the tracking link in your confirmation email or order history."
+  },
+  {
+    "category": "Orders",
+    "question": "Can I cancel my order?",
+    "answer": "If the order hasn’t shipped or been provisioned, cancellation may be possible—contact support."
+  },
+  {
+    "category": "Orders",
+    "question": "What if my order is delayed?",
+    "answer": "Check tracking for updates; contact support if it exceeds the estimated window."
+  },
+  {
+    "category": "Orders",
+    "question": "How do I reorder a previous purchase?",
+    "answer": "Go to Order History and select Reorder on the desired item."
+  },
+  {
+    "category": "Orders",
+    "question": "Can I change the shipping address after ordering?",
+    "answer": "Contact support immediately; we’ll try to update before shipment."
+  },
+  {
+    "category": "Orders",
+    "question": "Why did I receive a partial shipment?",
+    "answer": "Some items ship separately due to availability or location; remaining items will follow."
+  },
+  {
+    "category": "Orders",
+    "question": "How do I add a gift message?",
+    "answer": "Use the gift option at checkout; if missed, contact support promptly."
+  },
+  {
+    "category": "Orders",
+    "question": "Do you offer order pickup?",
+    "answer": "Pickup may be available in select locations; check availability at checkout."
+  },
+
+  {
+    "category": "Shipping",
+    "question": "What shipping options are available?",
+    "answer": "Standard, expedited, and express options are shown at checkout with estimated dates."
+  },
+  {
+    "category": "Shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to many countries; shipping costs and times vary by destination."
+  },
+  {
+    "category": "Shipping",
+    "question": "How are shipping costs calculated?",
+    "answer": "Based on destination, package weight, and selected speed."
+  },
+  {
+    "category": "Shipping",
+    "question": "Can I choose a delivery date?",
+    "answer": "We provide estimated windows; exact date selection isn’t guaranteed."
+  },
+  {
+    "category": "Shipping",
+    "question": "What happens if I miss the delivery?",
+    "answer": "Carriers typically retry or hold at a pickup point; use the tracking link for options."
+  },
+  {
+    "category": "Shipping",
+    "question": "Do you provide shipment insurance?",
+    "answer": "Some services include coverage; additional insurance may be available at checkout."
+  },
+  {
+    "category": "Shipping",
+    "question": "How do I change my shipping address?",
+    "answer": "Update it at checkout; for existing orders, contact support immediately."
+  },
+  {
+    "category": "Shipping",
+    "question": "What carriers do you use?",
+    "answer": "We partner with reputable carriers; the carrier is shown in your tracking info."
+  },
+  {
+    "category": "Shipping",
+    "question": "Can I consolidate multiple orders into one shipment?",
+    "answer": "We try to combine shipments when possible; contact support with your order numbers."
+  },
+  {
+    "category": "Shipping",
+    "question": "Do you offer eco‑friendly packaging?",
+    "answer": "We prioritize recyclable materials where possible; details are on our Sustainability page."
+  },
+
+  {
+    "category": "Returns & Refunds",
+    "question": "What is your return policy?",
+    "answer": "Most items can be returned within 30 days in original condition; see the policy page."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "How do I start a return?",
+    "answer": "Go to Order History and select Start Return or contact support for assistance."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Is return shipping free?",
+    "answer": "Return shipping depends on the reason and item category; details show in the portal."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "When will I receive my refund?",
+    "answer": "Refunds typically process within 5–10 business days after we receive the item."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Can I exchange instead of returning?",
+    "answer": "Exchanges are available for eligible items; select Exchange in the returns portal."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "What if my product arrived damaged?",
+    "answer": "Document the damage with photos and contact support within 48 hours."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Are final sale items returnable?",
+    "answer": "Final sale items are not eligible for returns unless defective."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "How do I return a gift?",
+    "answer": "Use the gift receipt or contact support with the order number."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "Can I return in store?",
+    "answer": "If you’re near a participating location, in‑store returns may be available."
+  },
+  {
+    "category": "Returns & Refunds",
+    "question": "How are refunds issued?",
+    "answer": "Refunds go back to the original payment method unless otherwise requested."
+  },
+
+  {
+    "category": "Product Information",
+    "question": "Where can I find product specifications?",
+    "answer": "Specifications are listed on each product page under Details."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you offer product comparisons?",
+    "answer": "Yes, use the Compare feature on product listings."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are there user manuals available?",
+    "answer": "Download manuals from the product page under Documentation."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you offer samples or demos?",
+    "answer": "Select products offer demos or sample kits—check the product page."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are accessories included?",
+    "answer": "Included items are listed under What’s in the Box on the product page."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are products under warranty?",
+    "answer": "Most products include a limited warranty; details are on the product and warranty pages."
+  },
+  {
+    "category": "Product Information",
+    "question": "Do you have sizing guides?",
+    "answer": "Yes, find sizing charts on relevant product pages."
+  },
+  {
+    "category": "Product Information",
+    "question": "Are color options accurate?",
+    "answer": "Colors may vary by screen; we strive for accurate images."
+  },
+  {
+    "category": "Product Information",
+    "question": "Can I request a custom configuration?",
+    "answer": "Customizations may be available for enterprise or bulk orders; contact sales."
+  },
+  {
+    "category": "Product Information",
+    "question": "How often are products updated?",
+    "answer": "We regularly improve products; release notes are in our Help Center."
+  },
+
+  {
+    "category": "Technical Support",
+    "question": "How do I report a bug?",
+    "answer": "Submit a ticket with steps to reproduce, screenshots, and your system details."
+  },
+  {
+    "category": "Technical Support",
+    "question": "What information helps resolve issues faster?",
+    "answer": "Include error messages, timestamps, logs, screenshots, and your account email."
+  },
+  {
+    "category": "Technical Support",
+    "question": "How do I clear cache or reset the app?",
+    "answer": "See the app settings > Storage to clear cache; reinstall if issues persist."
+  },
+  {
+    "category": "Technical Support",
+    "question": "Why is the app crashing?",
+    "answer": "Update to the latest version and ensure your OS meets minimum requirements."
+  },
+  {
+    "category": "Technical Support",
+    "question": "How do I check service status?",
+    "answer": "Visit status.company.com for live updates and incidents."
+  },
+  {
+    "category": "Technical Support",
+    "question": "How do I enable debug logs?",
+    "answer": "Go to Settings > Advanced > Enable Logging, then reproduce the issue."
+  },
+  {
+    "category": "Technical Support",
+    "question": "Why can’t I log in?",
+    "answer": "Check credentials, reset your password, and ensure your account is active."
+  },
+  {
+    "category": "Technical Support",
+    "question": "How do I update to the latest version?",
+    "answer": "Update via your app store or download from our website."
+  },
+  {
+    "category": "Technical Support",
+    "question": "How do I whitelist your domain or IPs?",
+    "answer": "See our network requirements in the Help Center for IP ranges and domains."
+  },
+  {
+    "category": "Technical Support",
+    "question": "Do you support SSO?",
+    "answer": "Yes, we support SAML/OIDC SSO on supported plans."
+  },
+
+  {
+    "category": "Security & Privacy",
+    "question": "How is my data protected?",
+    "answer": "We use encryption in transit and at rest, role‑based access, and secure development practices."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "Where can I find your privacy policy?",
+    "answer": "Visit our Privacy Policy page linked in the footer."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "Do you comply with GDPR?",
+    "answer": "Yes, we support GDPR compliance for applicable customers."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "Where is my data stored?",
+    "answer": "Data is hosted in secure data centers; region options may be available on select plans."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "How do I report a security vulnerability?",
+    "answer": "Email security@company.com or use our responsible disclosure program."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "Do you perform penetration testing?",
+    "answer": "We conduct regular security assessments and audits."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "How do I request data deletion?",
+    "answer": "Submit a request via Account Settings > Privacy or contact support."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "Do you offer data export?",
+    "answer": "Yes, export options are available in Account Settings or the dashboard."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "Do you sign DPAs?",
+    "answer": "We offer a Data Processing Addendum for eligible customers."
+  },
+  {
+    "category": "Security & Privacy",
+    "question": "Do you support SSO and SCIM?",
+    "answer": "Yes, SSO/SCIM are available on select plans."
+  },
+
+  {
+    "category": "Subscription & Plans",
+    "question": "What plans do you offer?",
+    "answer": "We offer Free, Pro, and Business tiers; see the Pricing page for features."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "Can I switch plans anytime?",
+    "answer": "Yes, upgrade or downgrade in Billing Settings."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "Do you offer annual discounts?",
+    "answer": "Annual billing includes a discounted rate compared to monthly."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "Is there a student or nonprofit discount?",
+    "answer": "Eligible programs are available; apply via the Help Center."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "How do I cancel my subscription?",
+    "answer": "Open Billing Settings and select Cancel Plan; your access continues until the end of the term."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "What happens when my trial ends?",
+    "answer": "You’ll be prompted to choose a plan; otherwise, your account may downgrade."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "Can I pause my subscription?",
+    "answer": "Pausing may be available on select plans; contact support to request."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "What features are included in each plan?",
+    "answer": "See the feature matrix on our Pricing page."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "Can I add seats mid‑cycle?",
+    "answer": "Yes, pro‑rated charges apply; add seats in User Management."
+  },
+  {
+    "category": "Subscription & Plans",
+    "question": "Do you offer enterprise plans?",
+    "answer": "Yes, contact sales for custom pricing and SLAs."
+  },
+
+  {
+    "category": "Integrations",
+    "question": "Which integrations do you support?",
+    "answer": "Browse the Integrations page for CRM, marketing, storage, and more."
+  },
+  {
+    "category": "Integrations",
+    "question": "How do I connect an integration?",
+    "answer": "Go to Settings > Integrations and follow the authentication flow."
+  },
+  {
+    "category": "Integrations",
+    "question": "Do you support webhooks?",
+    "answer": "Yes, configure webhooks in Developer Settings."
+  },
+  {
+    "category": "Integrations",
+    "question": "Can I build a custom integration?",
+    "answer": "Yes, use our API and OAuth; see the Developer docs."
+  },
+  {
+    "category": "Integrations",
+    "question": "How do I disconnect an integration?",
+    "answer": "Open Settings > Integrations and click Disconnect."
+  },
+  {
+    "category": "Integrations",
+    "question": "Do integrations cost extra?",
+    "answer": "Some integrations are free, while premium ones may require a higher plan."
+  },
+  {
+    "category": "Integrations",
+    "question": "How do I troubleshoot an integration?",
+    "answer": "Reauthenticate, check scopes, and review logs in the integration’s settings."
+  },
+  {
+    "category": "Integrations",
+    "question": "Can I limit integration permissions?",
+    "answer": "Yes, granular scopes are available during consent."
+  },
+  {
+    "category": "Integrations",
+    "question": "Do you have a Zapier integration?",
+    "answer": "Yes, search for our app on Zapier and connect your account."
+  },
+  {
+    "category": "Integrations",
+    "question": "How often do integrations sync?",
+    "answer": "Sync frequency depends on the integration; details are in the setup screen."
+  },
+
+  {
+    "category": "Mobile App",
+    "question": "Which platforms do you support?",
+    "answer": "Our mobile app supports iOS and Android."
+  },
+  {
+    "category": "Mobile App",
+    "question": "How do I enable push notifications?",
+    "answer": "Go to Settings in the app and enable notifications; also allow them in OS settings."
+  },
+  {
+    "category": "Mobile App",
+    "question": "Why am I not receiving notifications?",
+    "answer": "Check OS permissions, log in to the correct account, and verify your notification settings."
+  },
+  {
+    "category": "Mobile App",
+    "question": "How do I submit app feedback?",
+    "answer": "Use the Feedback option in the app’s Settings menu."
+  },
+  {
+    "category": "Mobile App",
+    "question": "Does the mobile app work offline?",
+    "answer": "Limited offline features are available; data syncs when reconnected."
+  },
+  {
+    "category": "Mobile App",
+    "question": "How do I sign out of the app?",
+    "answer": "Open your profile in the app and tap Sign Out."
+  },
+  {
+    "category": "Mobile App",
+    "question": "Is dark mode available?",
+    "answer": "Yes, toggle dark mode in the app’s Appearance settings."
+  },
+  {
+    "category": "Mobile App",
+    "question": "Can I use biometrics to log in?",
+    "answer": "Yes, enable Face ID or fingerprint login in Security settings."
+  },
+  {
+    "category": "Mobile App",
+    "question": "How do I share logs from mobile?",
+    "answer": "Enable diagnostics in Advanced settings and use the Share Logs option."
+  },
+  {
+    "category": "Mobile App",
+    "question": "How do I join beta releases?",
+    "answer": "Opt in via TestFlight (iOS) or the Play Store beta program."
+  },
+
+  {
+    "category": "Website & Checkout",
+    "question": "Why won’t my cart update?",
+    "answer": "Clear cache, disable extensions, or try a different browser."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "How do I apply a discount code?",
+    "answer": "Enter the code on the cart or checkout page before payment."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "My card was declined—what now?",
+    "answer": "Confirm details, try another card, or contact your bank."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "Is checkout secure?",
+    "answer": "Yes, we use HTTPS, PCI‑compliant processors, and modern encryption."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "Can I save items for later?",
+    "answer": "Use the wishlist feature on product pages."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "How do I change currency?",
+    "answer": "Select a currency from the footer or your profile settings."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "Do prices include tax?",
+    "answer": "Taxes are calculated at checkout, depending on your location."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "Can I check out as a guest?",
+    "answer": "Yes, guest checkout is available for most products."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "How do I request a quote?",
+    "answer": "Contact sales from the Pricing page for a custom quote."
+  },
+  {
+    "category": "Website & Checkout",
+    "question": "How do I get a proforma invoice?",
+    "answer": "Request one from sales or billing support before payment."
+  },
+
+  {
+    "category": "Loyalty & Rewards",
+    "question": "Do you have a rewards program?",
+    "answer": "Yes, earn points on purchases and redeem for discounts."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "How do I check my points balance?",
+    "answer": "View your balance in the Rewards section of your account."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "How do I redeem points?",
+    "answer": "Apply points at checkout to reduce your total."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "Do points expire?",
+    "answer": "Points may expire after a period of inactivity; see program terms."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "Can I transfer points?",
+    "answer": "Points are non‑transferable between accounts."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "Do referrals earn rewards?",
+    "answer": "Yes, refer friends using your link to earn bonuses."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "Are rewards available on sale items?",
+    "answer": "Rewards may be limited during certain promotions; see terms."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "How do tiers work?",
+    "answer": "Higher tiers unlock extra perks like faster support or exclusive deals."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "Where can I see program terms?",
+    "answer": "Find full terms in the Rewards section of our website."
+  },
+  {
+    "category": "Loyalty & Rewards",
+    "question": "Can businesses participate?",
+    "answer": "Yes, business accounts can join unless otherwise restricted."
+  },
+
+  {
+    "category": "Promotions & Discounts",
+    "question": "How do I know if a sale is active?",
+    "answer": "Check the homepage banner or our Offers page."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "Can I stack discount codes?",
+    "answer": "Most codes cannot be combined; see terms on the offer."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "Why isn’t my coupon working?",
+    "answer": "Check expiry, minimum spend, and eligible items."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "Do you offer price matching?",
+    "answer": "We may match select competitors; contact support with proof."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "Do you offer student discounts?",
+    "answer": "Student discounts may be available through verification partners."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "Are gift cards eligible for discounts?",
+    "answer": "Gift cards are usually excluded from promo codes."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "How often do you run promotions?",
+    "answer": "We run seasonal and event‑based promotions; subscribe for alerts."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "Can I get a bulk order discount?",
+    "answer": "Yes, contact sales for volume pricing."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "Do you offer first‑time customer discounts?",
+    "answer": "Yes, sign up to receive a welcome offer."
+  },
+  {
+    "category": "Promotions & Discounts",
+    "question": "How do I know a code is applied?",
+    "answer": "The discount appears in your cart summary before payment."
+  },
+
+  {
+    "category": "Compliance & Legal",
+    "question": "Where can I read your Terms of Service?",
+    "answer": "Our Terms are linked in the website footer and during signup."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "Do you have a Data Processing Addendum (DPA)?",
+    "answer": "Yes, eligible customers can sign a DPA; contact support."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "Are you SOC or ISO certified?",
+    "answer": "We follow industry best practices; certification details are available on request."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "Do you support HIPAA?",
+    "answer": "Contact sales for BAAs and HIPAA‑related offerings on eligible plans."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "How do you handle DMCA requests?",
+    "answer": "We process valid notices per our DMCA policy."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "How do you handle subpoenas or law enforcement requests?",
+    "answer": "We require valid legal process and protect user privacy per policy."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "Do you have age restrictions?",
+    "answer": "Yes, see our Terms for minimum age requirements."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "How do I report misuse or abuse?",
+    "answer": "Report via the Abuse form or email abuse@company.com."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "Do you have export restrictions?",
+    "answer": "We comply with applicable export laws; some regions are restricted."
+  },
+  {
+    "category": "Compliance & Legal",
+    "question": "Can I request a copy of my data?",
+    "answer": "Yes, submit a data access request via Account Settings > Privacy."
+  },
+
+  {
+    "category": "Accessibility",
+    "question": "Do you support screen readers?",
+    "answer": "We aim to support modern screen readers and ARIA standards."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Can I increase font size?",
+    "answer": "Use your browser’s zoom or enable larger text in settings."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Do images include alt text?",
+    "answer": "We work to provide descriptive alt text; report any missing tags."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Is keyboard navigation supported?",
+    "answer": "Yes, key workflows support tab navigation and shortcuts."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Are captions available for videos?",
+    "answer": "Most videos include captions; we’re expanding coverage."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Do you have a high‑contrast mode?",
+    "answer": "High‑contrast themes may be available in Appearance settings."
+  },
+  {
+    "category": "Accessibility",
+    "question": "How do I report an accessibility issue?",
+    "answer": "Email accessibility@company.com with details and screenshots."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Do you follow WCAG guidelines?",
+    "answer": "We strive for WCAG 2.1 AA compliance; see our Accessibility statement."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Can I navigate without a mouse?",
+    "answer": "Yes, common workflows are accessible via keyboard."
+  },
+  {
+    "category": "Accessibility",
+    "question": "Do you offer accommodations?",
+    "answer": "Contact support; we’ll work with you on reasonable accommodations."
+  },
+
+  {
+    "category": "International",
+    "question": "Which currencies do you support?",
+    "answer": "We support major currencies; choose yours in settings or at checkout."
+  },
+  {
+    "category": "International",
+    "question": "Do I pay customs or duties?",
+    "answer": "Import fees may apply based on your country’s regulations."
+  },
+  {
+    "category": "International",
+    "question": "Do you localize content?",
+    "answer": "We localize select pages and apps; more languages are coming."
+  },
+  {
+    "category": "International",
+    "question": "How are delivery times estimated internationally?",
+    "answer": "Estimates include customs processing and vary by region."
+  },
+  {
+    "category": "International",
+    "question": "Can I change my region?",
+    "answer": "Yes, update your region in account settings; some features vary by region."
+  },
+  {
+    "category": "International",
+    "question": "Do you support international phone numbers?",
+    "answer": "Yes, enter numbers with country codes."
+  },
+  {
+    "category": "International",
+    "question": "Is customer support available in my time zone?",
+    "answer": "We offer global coverage; response times vary by plan and time zone."
+  },
+  {
+    "category": "International",
+    "question": "Do you support international tax IDs?",
+    "answer": "Yes, add your tax ID in Billing Settings where applicable."
+  },
+  {
+    "category": "International",
+    "question": "Can I ship to multiple countries?",
+    "answer": "Yes, choose the destination per order at checkout."
+  },
+  {
+    "category": "International",
+    "question": "Do you partner with local resellers?",
+    "answer": "We work with select partners; contact sales for availability."
+  },
+
+  {
+    "category": "Wholesale & Business",
+    "question": "Do you offer wholesale pricing?",
+    "answer": "Yes, apply for a business account to access volume discounts."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "How do I get a quote for bulk orders?",
+    "answer": "Contact sales with quantities and requirements for a custom quote."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "Can I get net terms?",
+    "answer": "Net terms may be available upon approval; contact billing."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "Do you offer white‑label options?",
+    "answer": "Yes, for select products and plans; speak to sales."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "Do you have partner programs?",
+    "answer": "Yes, affiliate and reseller programs are available—apply online."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "Can I upload purchase orders?",
+    "answer": "Enterprise customers can attach POs in Billing or email them to AP."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "Do you support EDI?",
+    "answer": "EDI may be available for enterprise accounts; contact integrations."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "Can I set spending limits for my team?",
+    "answer": "Yes, configure limits and approvals in Admin settings."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "Do you provide MSAs or custom contracts?",
+    "answer": "Yes, our legal team can review enterprise agreements."
+  },
+  {
+    "category": "Wholesale & Business",
+    "question": "How do I add multiple shipping addresses?",
+    "answer": "Use the Addresses section in your business profile."
+  },
+
+  {
+    "category": "API & Developers",
+    "question": "Do you have an API?",
+    "answer": "Yes, see our API Reference in the Developer Portal."
+  },
+  {
+    "category": "API & Developers",
+    "question": "How do I get an API key?",
+    "answer": "Create or manage keys in Developer Settings under your account."
+  },
+  {
+    "category": "API & Developers",
+    "question": "What auth methods are supported?",
+    "answer": "We support API keys and OAuth 2.0 for server‑side apps."
+  },
+  {
+    "category": "API & Developers",
+    "question": "Do you have SDKs?",
+    "answer": "Yes, SDKs are available for popular languages on GitHub."
+  },
+  {
+    "category": "API & Developers",
+    "question": "What are the API rate limits?",
+    "answer": "Rate limits vary by plan; see the Rate Limits section in the docs."
+  },
+  {
+    "category": "API & Developers",
+    "question": "How do I test webhooks?",
+    "answer": "Use a tunneling tool (e.g., ngrok) and our webhook test events."
+  },
+  {
+    "category": "API & Developers",
+    "question": "Where can I find example requests?",
+    "answer": "Examples are in the docs and our Postman collection."
+  },
+  {
+    "category": "API & Developers",
+    "question": "How do I version my integration?",
+    "answer": "Pin to a specific API version and monitor deprecation notices."
+  },
+  {
+    "category": "API & Developers",
+    "question": "Do you support sandbox environments?",
+    "answer": "Yes, enable sandbox mode in Developer Settings."
+  },
+  {
+    "category": "API & Developers",
+    "question": "Where can I report API issues?",
+    "answer": "Open a ticket with request IDs, timestamps, and sample payloads."
   }
 ]
