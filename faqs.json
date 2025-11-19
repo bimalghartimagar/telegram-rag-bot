@@ -1,2 +1,12 @@
-﻿[
+[
+  {
+    "category": "General",
+    "question": "What are your operating hours?",
+    "answer": "Monday to Friday, 9:00 AM–5:00 PM (local time)."
+  },
+  {
+    "category": "Accounts",
+    "question": "How do I reset my password?",
+    "answer": "Go to our website, click Login, then Forgot Password. Check your email for the reset link."
+  }
 ]
